@@ -153,14 +153,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X657C/proprietary/lib/vndk-sp-29/android.hardware.graphics.mapper@3.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vndk-sp-29/android.hardware.graphics.mapper@3.0.so \
     vendor/infinix/X657C/proprietary/lib/vndk-sp-29/android.hardware.renderscript@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vndk-sp-29/android.hardware.renderscript@1.0.so \
     vendor/infinix/X657C/proprietary/lib/vndk-sp-29/android.hidl.safe_union@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vndk-sp-29/android.hidl.safe_union@1.0.so \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_dsds.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds.xml \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_dsds_se.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds_se.xml \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_dsds_se_ese.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_dsds_se_ese.xml \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_qsqs.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_qsqs.xml \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_ss.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss.xml \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_ss_se.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss_se.xml \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_ss_se_ese.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_ss_se_ese.xml \
-    vendor/infinix/X657C/proprietary/odm/etc/vintf/manifest_tsts.xml:$(TARGET_COPY_OUT_ODM)/etc/vintf/manifest_tsts.xml \
     vendor/infinix/X657C/proprietary/vendor/bin/aee_aedv:$(TARGET_COPY_OUT_VENDOR)/bin/aee_aedv \
     vendor/infinix/X657C/proprietary/vendor/bin/aee_archivev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_archivev \
     vendor/infinix/X657C/proprietary/vendor/bin/aee_dumpstatev:$(TARGET_COPY_OUT_VENDOR)/bin/aee_dumpstatev \
